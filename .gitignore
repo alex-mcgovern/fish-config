@@ -4,3 +4,6 @@ private.fish
 # fish generated files
 fishd*
 fish_variables
+
+# Junk
+.DS_store
